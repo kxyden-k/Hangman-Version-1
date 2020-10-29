@@ -3,7 +3,6 @@ from test_base import captured_io, captured_output
 from io import StringIO
 import hangman
 
-
 class MyTestCase(unittest.TestCase):
     def test_step1(self):
         words = hangman.read_file('tests/test_list.txt')
