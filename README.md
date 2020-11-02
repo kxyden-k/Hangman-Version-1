@@ -1,2 +1,2 @@
 # Hangman-Version-1
-Hangman game(very simple hangman that takes away only one letter from the word to guess from)
+Hangman Version 1: The player has one chance to guess the entire word that is chosen randomly from a predefined list.
